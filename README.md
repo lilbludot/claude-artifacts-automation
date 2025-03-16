@@ -1,0 +1,1 @@
+# Claude Artifacts Automation Project
