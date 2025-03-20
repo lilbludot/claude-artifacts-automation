@@ -33,4 +33,4 @@ ENV/
 
 # Sensitive data
 config/credentials.json
-.env
+.envclaude_conversation_state.json
